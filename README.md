@@ -1,4 +1,3 @@
-# Field_excitation_simulation
 <h1 align="center">Field Excitation Simulation</h1>
 
 <p align="center">
